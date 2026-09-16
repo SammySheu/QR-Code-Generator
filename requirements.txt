@@ -1,0 +1,5 @@
+# Biox Systems QR Code Generator -- dependency manifest
+# Install everything listed here with:  pip install -r requirements.txt
+
+qrcode==8.2      # Builds the QR code matrix from text/URL data
+pillow==12.3.0   # Image library qrcode uses to render and save the PNG
